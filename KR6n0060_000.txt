@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 攝大乘論本
+#+DATE: 2015-08-30 20:57:01.748662
+#+PROPERTY: JUAN 0
